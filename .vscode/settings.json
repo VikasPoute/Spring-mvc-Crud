@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cSpell.words": [
+        "Servlet"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}

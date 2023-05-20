@@ -1,0 +1,6 @@
+com\crud\operations\controller\MainController.class
+com\crud\operations\model\Product.class
+com\crud\operations\config\AppConfig.class
+com\crud\operations\dao\ProductDao.class
+com\crud\operations\config\DispatcherServletConfig.class
+com\crud\operations\dao\ProductDaoImpl.class
